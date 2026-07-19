@@ -540,12 +540,12 @@
           </article>
           <article class="demo">
             <span class="tag">Demo 02</span>
-            <h3>Billings After Dark Book Club</h3>
-            <p>A door for a small group of readers in Billings, MT who meet monthly and take books seriously.</p>
+            <h3>Rural Library Network</h3>
+            <p>A door for small libraries looking for peers, grants, volunteers, shared resources, and practical support.</p>
             <div class="door-line">
-              <span class="pill">Books</span>
-              <span class="pill">Local</span>
-              <span class="pill">Special Interest Group</span>
+              <span class="pill">Libraries</span>
+              <span class="pill">Rural</span>
+              <span class="pill">Mutual support</span>
             </div>
 			<p><a class="button primary" href="light/index.html">View Demo</a></p>
           </article>
